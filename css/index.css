@@ -18,8 +18,8 @@ body {
   padding: 0;
   margin: 0;
   font-family: -apple-system, system-ui, sans-serif;
-  color: var(--darkgray);
-  background-color: var(--white);
+  color: var(--white);
+  background-color: var(--darkgray);
 }
 p:last-child {
   margin-bottom: 0;
