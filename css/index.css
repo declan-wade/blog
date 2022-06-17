@@ -34,10 +34,10 @@ p,
   line-height: 1.45;
 }
 a[href] {
-  color: var(--blue);
+  color: var(--white);
 }
 a[href]:visited {
-  color: var(--navy);
+  color: var(--white);
 }
 main {
   padding: 1rem;
@@ -46,7 +46,7 @@ main :first-child {
   margin-top: 0;
 }
 header {
-  border-bottom: 1px dashed var(--lightgray);
+  border-bottom: 1px dashed var(--white);
 }
 header:after {
   content: "";
