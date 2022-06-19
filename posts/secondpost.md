@@ -6,7 +6,6 @@ tags:
   - homelab
 layout: layouts/post.njk
 ---
-# My unorthodox Homelab: Windows vs Linux
 
 As someone who has been running a homelab for the past 8 years, I have had the chance to run a huge variety of hardware and software to try out different things. From memory, this has now surmounted to  CentOS, Ubuntu, Debian, FreeNAS (now TrueNAS), unRAID, Windows Server, ESXi, Proxmox and standard Windows. 
 

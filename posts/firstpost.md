@@ -7,8 +7,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-# Docker Run CLI reference
-
 ## An easy guide for simple Docker run syntax
 
 `DISCLAIMER: this guide represents an over-simplified reference of the Docker syntax and does not represent best practices or a comprehensive use of the CLI`
