@@ -1,10 +1,10 @@
 {
-  "title": "ANAX",
+  "title": "BLOG | ANAX",
   "url": "https://anax.cc",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "My ramblings on random guff.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "My ramblings on random guff.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://anax.cc/"
